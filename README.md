@@ -25,4 +25,5 @@ thank `you`
         * Python<dr>
 [百度](http://baidu.com)<dr>
 <dr>
-![](https://github.com/qiejun/gitskiis/blob/master/images/a.jpg)
+![test image](https://github.com/qiejun/gitskiis/blob/master/images/a.jpg)<dr>
+![头像](https://github.com/HeTingwei/ReadmeLearn/blob/master/avatar1.jpg)
