@@ -28,6 +28,8 @@ thank `you`
 <br>
 [百度](http://baidu.com)<br>
 <br>
+### 更改图像大小
 <img src="https://github.com/qiejun/gitskiis/blob/master/images/car_001.png" width="150" height="150" alt="加载失败的时候显示"><br>
 <br>
+### 更改图像大小和位置，位置在中间
 <div align=center><img src="https://github.com/qiejun/gitskiis/blob/master/images/car_001.png"/ width="150" height="150" ></div><br>
