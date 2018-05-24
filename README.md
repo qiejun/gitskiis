@@ -23,5 +23,7 @@ thank `you`
     * c
     * 脚本语言  
         * Python<br>
-![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png)<br>
+        <br>
+![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png "car")<br>
+<br>
 [百度](http://baidu.com)<br>
