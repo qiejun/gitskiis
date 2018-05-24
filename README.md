@@ -24,5 +24,4 @@ thank `you`
     * 脚本语言  
         * Python<br>
 ![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png)<br>
-<br>
-[baidu](https://www.baidu.com)
+[百度](http://baidu.com)<br>
