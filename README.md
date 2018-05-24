@@ -22,8 +22,11 @@ thank `you`
 * 编程语言
     * c
     * 脚本语言  
-        * Python<dr>
-[百度](http://baidu.com)<dr>
-![](gitskiis/images/a.jpg)<dr>
-![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png)<dr>
+        * Python<br>
+<br>
+[百度](http://baidu.com)<br>
+<br>
+![](gitskiis/images/a.jpg)<br>
+<br>
+![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png)<br>
  
