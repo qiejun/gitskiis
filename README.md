@@ -26,7 +26,5 @@ thank `you`
 <br>
 [百度](http://baidu.com)<br>
 <br>
-![](gitskiis/images/a.jpg)<br>
-<br>
-![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png)<br>
+![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png)
  
