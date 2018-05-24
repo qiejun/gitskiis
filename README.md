@@ -27,4 +27,3 @@ thank `you`
 [百度](http://baidu.com)<br>
 <br>
 ![image](https://github.com/qiejun/gitskiis/blob/master/images/car_001.png)
- 
