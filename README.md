@@ -28,6 +28,6 @@ thank `you`
 <br>
 [百度](http://baidu.com)<br>
 <br>
-<img src="https://github.com/qiejun/gitskiis/blob/master/images/car_001.png" width="150" height="150" alt="加载失败"><br>
+<div align=center><img src="https://github.com/qiejun/gitskiis/blob/master/images/car_001.png" width="150" height="150" alt="加载失败" "car"></div><br>
 <br>
 <div align=center><img src="https://github.com/qiejun/gitskiis/blob/master/images/car_001.png"/ width="150" height="150" ></div><br>
